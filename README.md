@@ -2,7 +2,7 @@
 
 ## :man_technologist: About me
 
-- I'm an apprising pilot :airplane: with a hobby of programming :computer:.
+- I'm an aspiring pilot :airplane: with a hobby of programming :computer:.
 - I started programming at the start of 2023 so I'm still very new and I'm always aspiring to learn something!
 
 ## 🔭 I’m currently working on

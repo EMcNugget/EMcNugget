@@ -4,7 +4,6 @@
 
 - I'm an aspiring pilot :airplane: with a hobby of programming :computer:.
 - I started programming at the start of 2023 so I'm still very new and I'm always aspiring to learn something!
-- Owner of [ADS-B Military Analytics](https://github.com/ADS-B-Military-Analytics)
 
 ## 🔭 I’m currently working on
 

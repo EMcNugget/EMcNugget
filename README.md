@@ -13,7 +13,7 @@
 
 **My Projects:**
 
--None at the moment. I am maintaining ADS-B Military Analytics for the remainder of this year where it will he archived.
+-None at the moment. I am maintaining ADS-B Military Analytics for the remainder of this year where it will be archived.
 
 ## :thinking: What I know
 

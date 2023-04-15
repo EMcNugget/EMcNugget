@@ -7,7 +7,13 @@
 
 ## 🔭 I’m currently working on
 
-- [ADS-B Military Analytics](https://github.com/EMcNugget/ADS-B-Military-Analytics) - Creating an analytics website for military aircraft using [ADS-B](https://www.faa.gov/air_traffic/technology/adsb) with data from [ADS-B Exchange](https://www.adsbexchange.com/).
+**Contributing To:**
+
+-[DCS Web Editor](https://github.com/DCS-Web-Editor/dcs-web-editor-mono).
+
+**My Projects:**
+
+-None at the moment. I am maintaining ADS-B Military Analytics for the remainder of this year where it will he archived.
 
 ## :thinking: What I know
 

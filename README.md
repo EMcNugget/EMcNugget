@@ -9,13 +9,13 @@
 
 **Contributing To:**
 
--[DCS Web Editor](https://github.com/DCS-Web-Editor/dcs-web-editor-mono).
+- [DCS Web Editor](https://github.com/DCS-Web-Editor/dcs-web-editor-mono).
 
 **My Projects:**
 
--My Portfolio (Private for now)
+- My Portfolio (Private for now)
 
--I am maintaining ADS-B Military Analytics for the remainder of this year where it will be archived.
+- I am maintaining ADS-B Military Analytics for the remainder of this year where it will be archived.
 
 ## :thinking: What I know
 

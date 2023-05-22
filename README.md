@@ -9,28 +9,27 @@
 
 **Contributing To:**
 
-- [DCS Web Editor](https://github.com/DCS-Web-Editor/dcs-web-editor-mono).
+- I am a large contributer to [DCS Web Editor](https://github.com/DCS-Web-Editor/dcs-web-editor-mono). A Web based Mission Editor for DCS World (Project unaffiliated with Eagle Dyanmics and is a 3rd party project).
 
 **My Projects:**
 
-- My Portfolio (Private for now)
-
-- I am maintaining ADS-B Military Analytics for the remainder of this year where it will be archived.
+- Currently doing a major redesign of [ADS-B Military Analytics](https://github.com/EMcNugget/ADS-B-Military-Analytics). I'm rewrtting the backend services in Go, the website with Next.js, and switching from MongoDB to PlanetScale (MySQL).
 
 ## :thinking: What I know
 
-| Backend             | Frontend          |
-|:-------------------:|:-----------------:|
-| ![Python][PY]       | ![TypeScript][TS] |
-| ![Flask][Flask]     | ![React][React]   |
-| ![MongoDB][MDB]     | ![Vite][Vite]     |
-| ![Google Cloud][GC] | ![Firebase][FB]   |
-|                     | ![SASS][SASS]     |
+|       Backend       |      Frontend      |
+| :-----------------: | :----------------: |
+|    ![Python][PY]    | ![TypeScript][TS]  |
+|   ![Flask][Flask]   |  ![React][React]   |
+|   ![MongoDB][MDB]   |   ![Vite][Vite]    |
+| ![Google Cloud][GC] |  ![Firebase][FB]   |
+|                     |   ![SASS][SASS]    |
+|                     | ![TailwindCSS][TW] |
+|                     |   ![Vue.js][Vue]   |
 
 ## :pencil2: I'm Learning
 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## :bar_chart: Stats
 
@@ -57,3 +56,5 @@
 [Vite]: https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white
 [SASS]: https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
 [FB]: https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
+[TW]: https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Vue]: https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D

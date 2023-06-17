@@ -8,7 +8,7 @@
 
 **Contributing To:**
 
-- I am a large contributer to [DCS Web Editor](https://github.com/DCS-Web-Editor/dcs-web-editor-mono). A Web based Mission Editor for DCS World (Project unaffiliated with Eagle Dyanmics and is a 3rd party project).
+- I am one of the developers of [DCS Web Editor](https://github.com/DCS-Web-Editor) I work on various frontend tasks in Vue. Some examples of my work are the briefings, weather, and coalition editor packages.
 
 **My Projects:**
 

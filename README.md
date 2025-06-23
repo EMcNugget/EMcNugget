@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ethan Seys</h1>+
+<h1 align="center">Hi 👋, I'm Ethan Seys</h1>
 
 - 🔭 I’m currently working on **various VATSIM related projects**
 

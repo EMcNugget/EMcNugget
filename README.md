@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ethan Seys</h1>
-<h3 align="center">College student, pilot, software developer.</h3>
+<h1 align="center">Hi 👋, I'm Ethan Seys</h1>+
 
 - 🔭 I’m currently working on **various VATSIM related projects**
 
